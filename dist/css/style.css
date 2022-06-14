@@ -6,6 +6,10 @@ html body {
     font-family: 'Dosis', sans-serif;
 }
 
+.mg-top {
+    margin-top: 10px;
+}
+
 header section .container{
     padding: 50px;
 }
